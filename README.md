@@ -1,11 +1,12 @@
-# Python Flappy bird game
+# Pyhton Flappy bird
 
-Coded   Flappy burd game using Pygame module in Python
-  
-## Reference
+Coded Flappy bird game in Python using pygame module !
 
-Pygqame library :   https://www.pygame.org/docs/
+https://user-images.githubusercontent.com/97227844/154968550-b902f99e-7307-4640-aef2-d27134622d11.mp4
 
-##  Game
-In order to start the game run Flappy_bird.py file 
+
+## Reference 
+
+Pygame library documentation :   https://www.pygame.org/docs/
+
 
