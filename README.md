@@ -9,4 +9,6 @@ https://user-images.githubusercontent.com/97227844/154968550-b902f99e-7307-4640-
 
 Pygame library documentation :   https://www.pygame.org/docs/
 
+## Tutorial 
 
+Codewithharry does a  greta job of explaning the logic of the afforementioned program  :  https://www.codewithharry.com/videos/python-tutorials-for-absolute-beginners-122
